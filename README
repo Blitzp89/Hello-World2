@@ -1,0 +1,12 @@
+$ mkdir ~/Hello-World2
+# Creates a directory for your project called "Hello-World2" in your user directory
+
+$ cd ~/Hello-World
+# Changes the current working directory to your newly created directory 
+
+$ git inti
+# Sets up the neccssary Git files
+Initialized empty Git repository in /Users/you/Hello-World2/ .git/
+
+$ touch README
+$ Creates a file called "README" in your Hello-World2 directory
